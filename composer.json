@@ -1,12 +1,12 @@
 {
-    "name": "simplethings/entity-audit-bundle",
+    "name": "staspiv/entity-audit-bundle",
     "license": "LGPL-2.1",
     "keywords": [
         "Persistence",
         "Database",
         "Audit"
     ],
-    "description": "Audit for Doctrine Entities",
+    "description": "Audit for Doctrine Entities forked from simplethings/entity-audit-bundle",
     "require": {
         "php": "^5.3.9|~7.0",
         "doctrine/dbal": "~2.5",
